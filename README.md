@@ -8,8 +8,9 @@ process()
 ```
 and press enter
 	
-The results will be exported to result.txt
-to reload results into R
+The results will be exported to result.txt.
+
+To reload results into R
 use command:
 ```R
 dget("result.txt")
